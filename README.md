@@ -19,3 +19,4 @@ elm make src/Snake.elm --optimize --output=snake.js
 => easier than trying to use mouse
 - [ ] snake exiting top enters bottom etc  
 => makes sense
+- [ ] game over at end of game
