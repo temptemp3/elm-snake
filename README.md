@@ -17,6 +17,5 @@ elm make src/Snake.elm --optimize --output=snake.js
 
 - [ ] handle keyboard arrow keys  
 => easier than trying to use mouse
-- [ ] snake exiting top enters bottom etc  
-=> makes sense
-- [ ] game over at end of game
+- [ ] game over at end of game  
+=> game over in large font size
