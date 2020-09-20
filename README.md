@@ -12,3 +12,10 @@ elm make src/Snake.elm --optimize --output=snake.js
 ```
 
 [demo]: http://martinsnyder.net/projects/snake.html
+
+## to do
+
+- [ ] handle keyboard arrow keys  
+=> easier than trying to use mouse
+- [ ] snake exiting top enters bottom etc  
+=> makes sense
