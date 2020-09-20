@@ -1,3 +1,6 @@
+
+module Snake exposing (..)
+
 import Browser
 import Browser.Events
 import Html exposing (Html)
