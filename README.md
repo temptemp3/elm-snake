@@ -19,3 +19,4 @@ elm make src/Snake.elm --optimize --output=snake.js
 => easier than trying to use mouse
 - [ ] game over at end of game  
 => game over in large font size
+- [ ] Add fence  
